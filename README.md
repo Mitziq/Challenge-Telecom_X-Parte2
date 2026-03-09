@@ -72,10 +72,11 @@ Esto se traduce en el menor número de Falsos Negativos (clientes que desertaron
 <img width="576" height="455" alt="image" src="https://github.com/user-attachments/assets/56af56cf-8b54-48dc-bf74-577edc161bc9" />
 
 ## 🔐Modo de ejecución:
-✔️Clonar el repositorio
+✔️Clona el repositorio
 
-✔️Abre el archivo 
+✔️Abre el archivo  [Challenge Telecom Parte 2]([docs/instrucciones.md](https://github.com/Mitziq/Challenge-Telecom_X-Parte2/blob/main/Challenge_Telecom_X_Parte_2.ipynb))
 
-✔️Carga el archivo [datos_tratados_Telecom_parte2](datos_tratados_Telecom_parte2)
+
+✔️Asegurate de cargar los datos en el repositorio [datos_tratados_Telecom_parte2](datos_tratados_Telecom_parte2)
 
 ✔️Ejecuta las celdas
