@@ -17,3 +17,16 @@
 
 
 ## 🛠️Tecnologías utilizadas
+![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow&logoSize=auto&labelColor=gray&color=blue&cacheSeconds=3600)
+![Static Badge](https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=pandas&logoColor=white&logoSize=auto&labelColor=gray&color=blue&cacheSeconds=3600)
+![Static Badge](https://img.shields.io/badge/Numpy-navy?style=for-the-badge&logo=numpy&logoColor=white&logoSize=auto&labelColor=navy&color=navy&cacheSeconds=3600)
+![Static Badge](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=white&logoSize=auto&labelColor=black&color=white&cacheSeconds=3600)
+
+![Static Badge](https://img.shields.io/badge/seaborn-purple?style=for-the-badge&logo=seaborn&logoColor=white&logoSize=auto&labelColor=white&color=purple&cacheSeconds=3600)
+![Static Badge](https://img.shields.io/badge/colab-gray?style=for-the-badge&logo=googlecolab&logoColor=orange&logoSize=auto&label=google&labelColor=gray&color=gray&cacheSeconds=3600)
+
+
+
+
+
+
