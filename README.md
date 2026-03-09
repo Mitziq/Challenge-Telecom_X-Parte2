@@ -80,3 +80,5 @@ Esto se traduce en el menor número de Falsos Negativos (clientes que desertaron
 ✔️Asegurate de cargar los datos en el repositorio [datos_tratados_Telecom_parte2](datos_tratados_Telecom_parte2)
 
 ✔️Ejecuta las celdas
+
+## Elaborado por: MitziQ 💕
